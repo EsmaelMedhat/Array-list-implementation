@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1714839343 source:e:\cs_50\new folder\array list\main.cpp
+	<iostream>
+	"ArrayList.h"
+
+1714836490 source:e:\cs_50\new folder\array list\src\arraylist.cpp
+
+1714839263 e:\cs_50\new folder\array list\include\arraylist.h
+	<iostream>
+
